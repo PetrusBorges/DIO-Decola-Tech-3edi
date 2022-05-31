@@ -1,28 +1,32 @@
-# DIO - Desafio de Projeto sobre Git/GitHub
+# DIO - Decola Tech 3a edição
 
-Repositório criado para o desafio de projeto.
+Repositório criado exclusivamente com todos os arquivos de desafios do Bootcamp Decola Tech 3a edição.
 
-## 📋 Project
+## 📋 Projeto
 
-Este projeto é resultado de participação de uma aula na [DIO](https://www.dio.me) 🚀.
-Nele foi possivel ter conhecimentos fundamentais de Git/GitHub.
+Os conteúdos presentes neste repositório é resultado de participação do Decola Tech 3a edição na [DIO](https://www.dio.me) 🚀.
+Nele foi possivel ter conhecimentos fundamentais em Git/GitHub - HTML - CSS3 - JAVASCRIPT - REACT NATIVE.
 
-[Luinks Úteis](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-
-## 🛠️ Built with
+## 🛠️ Feito com
 
 ✔️ Git/GitHub
 
-## ✒️ Authors
+✔️ HTML
 
-[Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)
-[Petrus Borges](https://github.com/PetrusBorges)
+✔️ CSS3
 
-## 🎁 Gratitude
+✔️ JAVASCRIPT
 
-- Agradecimento público a toda a equipe da DIO pelo evento e em especial ao instrutor
-  [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)🤓.
+✔️ REACT NATIVE
+
+## ✒️ Autores
+
+[Petrus Borges - GitHub](https://github.com/PetrusBorges)
+
+[Petrus Borges - Linkedin](https://www.linkedin.com/in/petrusborgesmachado/)
+
+## 🎁 Gratidão
+
+- Agradecimento público a toda a equipe da [DIO](https://www.dio.me) pelo evento e em especial a todos os instrutores e colegas! 😊
 
 ---
-
-- [Petrus Borges](https://www.linkedin.com/in/petrusborgesmachado/) 😊

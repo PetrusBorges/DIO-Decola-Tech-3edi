@@ -1,11 +1,11 @@
-# DIO - Decola Tech 3a edição
+# DIO - Impulso Javascript Evolution
 
-Repositório criado exclusivamente com todos os arquivos de desafios do Bootcamp Decola Tech 3a edição.
+Repositório criado exclusivamente com todos os arquivos de desafios do Bootcamp Impulso Javascript Evolution.
 
 ## 📋 Projeto
 
-Os conteúdos presentes neste repositório é resultado de participação do Decola Tech 3a edição na [DIO](https://www.dio.me) 🚀.
-Nele foi possivel ter conhecimentos fundamentais em Git/GitHub - HTML - CSS3 - JAVASCRIPT - REACT NATIVE.
+Os conteúdos presentes neste repositório é resultado de participação do Impulso Javascript Evolution na [DIO](https://www.dio.me) 🚀.
+Nele foi possivel ter conhecimentos fundamentais em Git/GitHub - HTML - CSS3 - JAVASCRIPT - REACT - SQL - NoSQL - Node.js.
 
 ## 🛠️ Feito com
 
@@ -17,7 +17,13 @@ Nele foi possivel ter conhecimentos fundamentais em Git/GitHub - HTML - CSS3 - J
 
 ✔️ JAVASCRIPT
 
-✔️ REACT NATIVE
+✔️ REACT
+
+✔️ SQL 
+
+✔️ NoSQL 
+
+✔️ NODE.JS 
 
 ## ✒️ Autores
 

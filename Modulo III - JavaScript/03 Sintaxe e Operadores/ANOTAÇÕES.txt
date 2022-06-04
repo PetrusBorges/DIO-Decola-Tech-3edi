@@ -1,0 +1,58 @@
+//VARIÁVEIS E TIPOS----------------------------------------------
+
+//ATRIBUIÇÃO-----------
+/* OPERADORES - EXEMPLOS - EQUIVALENTE A
+      =           X+Y        X+Y
+      +=          X+=Y       X = X+Y
+      *=          X*=Y       X = X*Y
+      /=          X/=Y       X = X/Y
+      %=          X/=Y       X = X%Y
+*/
+
+/*OPERADORES------------
++  ADIÇÃO
+-  SUBTRAÇÃO
+*  MULTIPLICAÇÃO
+** POTENCIALIZAÇÃO
+/  DIVISÃO
+%  MODULO
+++ INCREMENTAR -- ADICIONAR 1 NO VALOR DA VARIAVEL VAR i = 0 >>>>>> VAR i = 1
+-- DECREMENTAR -- REMOVE 1 NO VALOR DA VARIAVEL VAR i = 0 >>>>>> VAR i = -1
+
+OPERADORES DE COMPARAÇÃO-------------
+==    IGUAL A
+===   MESMO VALOR E MESMO TIPO
+!=    DIFERENTE
+!==   VAR E TIPOS DIFERENTES
+>     MAIOR QUE
+<     MENOR QUE
+>=    MAIOR OU IGUAL
+<=    MENOR OU IGUAL
+
+LOGICA-------------
+&& TRUE TRUE (E LOGICO)
+|| FALSE TRUE (OU LOGICO)
+!  (NAO LOGICO)
+
+CONDICIONAL TENÁRIO-------------
+
+É A MESMA COISA QUE USAR IF / ELSE PORÉM É MAIS USADO
+
+                 false
+       __________________________
+      |                          |
+      |   true                   |
+      |___________               |
+      |           |              |
+      |           |              |
+(CONDITION) ? EXPRESSION1 : EXPRESSION2 
+
+(operand1)     (operand2)    (operand3)
+
+COMPARAÇÃO COM IF / ELSE
+__________________
+
+if (CONDITION)
+    EXPRESSION1;
+else
+    EXPRESSION2;

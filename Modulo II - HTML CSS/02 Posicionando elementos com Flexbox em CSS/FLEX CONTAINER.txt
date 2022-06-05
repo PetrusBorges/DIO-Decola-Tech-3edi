@@ -1,0 +1,19 @@
+display: flex = pode ser usado em tudo e transforma seus filho em FLEX ITENS
+
+display: FLEX
+flex-direction:
+flex-wrap:
+flex-flow:
+justify-content:
+align-items:
+align-content:
+
+FLEX ITEM: são elementos filhos diretos do flex container e também
+podem se tornar flex container
+
+flex-grow:
+flex-basis:
+flex-shrink:
+flex:
+order:
+align-self:

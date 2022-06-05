@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    //FLEX WRAP = É a propriedade que define se os itens devem ou não quebrar a
+    linha, por padrao eles nao quebram, isso faz com que os flex itens sejam
+    compactados ate o limite do conteudo = NOWRAP , WRAP
+
+    <style>
+      .flex-container {
+        display: flex;
+        height: 150px;
+        border: 1px solid black;
+        max-width: 310px;
+      }
+
+      .item {
+        font-size: 24px;
+        height: 50%;
+        line-height: 50px;
+        text-align: center;
+        min-width: 100px;
+      }
+
+      .nowrap {
+        flex-wrap: nowrap;
+      }
+
+      .wrap {
+        flex-wrap: wrap;
+      }
+
+      .wrap-reverse {
+        flex-wrap: wrap-reverse;
+      }
+
+      .blue {
+        background-color: blue;
+      }
+
+      .green {
+        background-color: green;
+      }
+
+      .orange {
+        background-color: orange;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>no wrap</h1>
+
+    <div class="flex-container nowrap">
+      <div class="item orange">1</div>
+      <div class="item green">2</div>
+      <div class="item blue">3</div>
+      <div class="item orange">4</div>
+    </div>
+
+    <h1>wrap</h1>
+
+    <div class="flex-container wrap">
+      <div class="item green">1</div>
+      <div class="item blue">2</div>
+      <div class="item orange">3</div>
+      <div class="item green">4</div>
+    </div>
+
+    <h1>wrap reverse</h1>
+
+    <div class="flex-container wrap-reverse">
+      <div class="item green">1</div>
+      <div class="item blue">2</div>
+      <div class="item orange">3</div>
+      <div class="item green">4</div>
+    </div>
+  </body>
+</html>

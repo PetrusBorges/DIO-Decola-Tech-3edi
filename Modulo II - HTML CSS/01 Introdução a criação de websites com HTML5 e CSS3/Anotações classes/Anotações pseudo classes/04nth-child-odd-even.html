@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+
+    /*:nth-child-odd-even = reconhece filhos pares (even) e impares(odd) e
+    estilizam de forma separada */
+
+    <style>
+      article ul li:nth-child(odd) {
+        color: white;
+        background-color: blue;
+      }
+
+      article ul li:nth-child(even) {
+        color: white;
+        background-color: rgb(201, 27, 128);
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+        <li>7</li>
+        <li>8</li>
+      </ul>
+    </article>
+  </body>
+</html>

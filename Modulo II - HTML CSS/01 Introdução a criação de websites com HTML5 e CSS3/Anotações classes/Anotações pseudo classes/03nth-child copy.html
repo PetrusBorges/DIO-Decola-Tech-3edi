@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+
+    /*:nth-child é uma pseudo classe e precisa indicar o numero da tag filha da
+    primeira tag indicada na linha */
+
+    <style>
+      article p:nth-child(2) {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      //1
+      <h3>item1</h3>
+      //2
+      <p>item2</p>
+      //3
+      <p>item3</p>
+      //4
+      <p>item4</p>
+    </article>
+  </body>
+</html>

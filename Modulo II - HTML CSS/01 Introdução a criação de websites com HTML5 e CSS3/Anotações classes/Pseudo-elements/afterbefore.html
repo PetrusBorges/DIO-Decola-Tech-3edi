@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    //::before colocando conteudo depois dos elementos //::after colocando
+    conteudo antes dos elementos
+
+    <style>
+      h1 {
+        font-size: 32px;
+        color: #122a57;
+        display: flex;
+        margin-bottom: 20px;
+        align-items: center;
+      }
+
+      h1::before {
+        content: '';
+        height: 50px;
+        width: 5px;
+        margin-right: 5px;
+        background-color: #122a57;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Qualquer coisa</h1>
+  </body>
+</html>

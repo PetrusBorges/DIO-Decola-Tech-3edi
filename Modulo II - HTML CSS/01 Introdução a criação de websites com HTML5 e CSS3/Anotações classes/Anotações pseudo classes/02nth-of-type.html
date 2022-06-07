@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+
+    /*:nth-of-type é uma pseudo classe e precisa indicar o numero da tag filha
+    da segunda tag indicada na linha */
+
+    <style>
+      article p:nth-of-type(3) {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <h3>exemplo</h3>
+      //1
+      <p>item1</p>
+      //2
+      <p>item2</p>
+      //3
+      <p>item3</p>
+    </article>
+  </body>
+</html>
